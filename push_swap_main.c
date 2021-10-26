@@ -14,7 +14,7 @@
 
 int	main(int argc, char **argv)
 {
-	int			i;
+	int		i;
 	t_infobox	box;
 
 	if (argc < 2)
